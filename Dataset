@@ -1,0 +1,55 @@
+1. Airline Passenger Satisfaction Survey
+Source: GitHub - Chibili/Customer-Satisfaction
+
+Description: This dataset contains responses from a U.S. airline passenger satisfaction survey. It includes variables such as InflightEntertainment, OnboardService, LegRoomService, BaggageHandling, CheckinService, Cleanliness, DepartureDelay, ArrivalDelay, FlightDistance, SeatComfort, FoodandDrink, GateLocation, InflightService, InflightWifiService, InflightEntertainment, OnlineBoarding, SeatType, Gender, Age, TypeofTravel, Class, and Satisfaction.
+
+Use Case: Ideal for building predictive models to assess factors influencing passenger satisfaction.
+
+2. Customer Feedback and Satisfaction
+Source: Kaggle - Customer Feedback and Satisfaction
+
+Description: This dataset provides customer feedback and satisfaction metrics, including ratings and comments.
+
+Use Case: Suitable for sentiment analysis and identifying satisfaction drivers through text data.
+
+3. Civil Service Customer Satisfaction Survey 2015
+Source: data.gov.ie - Civil Service Customer Satisfaction Survey 2015
+
+Description: A survey assessing satisfaction levels with services received from the Irish Civil Service. It includes various service quality metrics.
+
+Use Case: Useful for analyzing government service satisfaction and identifying improvement areas.
+
+4. Customer Survey Responses - City of Los Angeles
+Source: data.lacity.org - Customer Survey Responses
+
+Description: Monthly customer survey responses from visitors to El Pueblo in Los Angeles, covering aspects like service quality and visitor experience.
+
+Use Case: Ideal for analyzing public service satisfaction in urban settings.
+
+5. CTM Customer Satisfaction Survey Questions - City of Austin
+Source: data.austintexas.gov - CTM Customer Satisfaction Survey Questions
+
+Description: A collection of survey questions used by the Communications and Technology Management Department in Austin, Texas, to assess customer satisfaction.
+
+Use Case: Useful for understanding the types of questions that gauge customer satisfaction in municipal services.
+
+6. Customer Satisfaction Data - Minitab
+Source: Minitab - Customer Satisfaction Data
+
+Description: A dataset from a restaurant chain assessing customer satisfaction through a 5-point Likert scale on three questions: service satisfaction, likelihood to revisit, and likelihood to recommend.
+
+Use Case: Suitable for demonstrating item analysis and reliability testing in customer satisfaction surveys.
+
+7. Overall Satisfaction Survey - Higher Education
+Source: Mendeley Data - Overall Satisfaction Survey
+
+Description: Survey data from 600 students assessing satisfaction with services provided by a private higher education institution in the Brazilian Amazon.
+
+Use Case: Ideal for analyzing factors affecting student satisfaction in educational institutions.
+
+8. Civil Service Customer Satisfaction Survey 2017
+Source: data.gov.ie - Civil Service Customer Satisfaction Survey 2017
+
+Description: A follow-up survey assessing public satisfaction with Irish Civil Service services, including various service quality metrics.
+
+Use Case: Useful for longitudinal analysis of service satisfaction trends over time.
